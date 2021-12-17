@@ -1,0 +1,5 @@
+- use gnatmake and passed the test
+- use MyLock to synchronize the access of array of different tasks
+- each task accept several messages to move forward
+- SIZE can be changed
+- defined specific Int and Array type
