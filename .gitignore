@@ -1,0 +1,23 @@
+*
+!.gitignore
+
+!ada_assign/
+ada_assign/*
+!ada_assign/MainProg.adb
+!ada_assign/Sorting.adb
+!ada_assign/README.txt
+
+!ml_assign/
+ml_assign/*
+!ml_assign/ML Lecture 1.txt
+!ml_assign/ML Lecture 2.txt
+!ml_assign/ml_assign.sml
+
+!scheme_assign/
+scheme_assign/*
+!scheme_assign/scheme_assign.rkt
+
+!oop_assign/
+oop_assign/*
+!oop_assign/Part1.java
+!oop_assign/Part2.scala
